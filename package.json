@@ -1,0 +1,14 @@
+{
+  "name": "M3S03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Luis-Vilar/M3S03.git",
+  "author": "Luis-Vilar <luis_velazquez@estudante.sesisenai.org.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start" : "node index.js"
+  }
+}
